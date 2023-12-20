@@ -4,3 +4,9 @@ today
 
 that's it how are you
 okay dokie
+
+working on loop function
+1
+2
+3
+4
