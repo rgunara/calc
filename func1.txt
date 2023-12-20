@@ -1,6 +1,15 @@
 first commit for func 1
 second commit for f1
 third comm f1
+
+sadfdsaf
+dsafadsf
+dsafadsfdsf
+sadfdsafsdf
+sadfdsafsdfsdf
+dsafadsf
+
+
 4th
 
 while (loop)}
@@ -9,3 +18,4 @@ while (loop)}
 32
 
 }better end while
+
