@@ -4,3 +4,4 @@ yeah yeah yeah
 adding a loop
 oh yea
 and an if stmtm
+and a case stmt
