@@ -1,15 +1,2 @@
-funct 1
-
-func 2
-func 3
-
-func4
-func 5
-func used for scroll
-
-sdfsdf
-sdf
-111111111111111111
-sdfsdf
-sdf
-sdf
+why hello there function 1
+waiting fo rnext
