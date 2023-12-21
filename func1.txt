@@ -3,3 +3,4 @@ hello there
 why hello there function 1
 waiting fo rnext
 addying func1
+adding func2
