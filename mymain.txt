@@ -2,7 +2,7 @@ mymain is the way to go
 this is in local
 yeah yeah yeah
 adding a loop
-oh yea
+var a: string
 and an if stmtm
 check stmtmon
 only in loopo
@@ -12,4 +12,5 @@ anoyther one in local
 another one in github
 controller
 ps5
-
+Today at 7:46 change
+lets see how it goes
