@@ -1,28 +1,12 @@
 mymain is the way to go
 this is in local
 yeah yeah yeah
-adding a loop
-var a: string
-and an if stmtm
-check stmtmon
-only in loopo
-why does it suck
-okay
-anoyther one in local
-another one in github
+uselss code removed ------
 controller
 ps5
-Today at 7:46 change
+and couple added here
+okay
 lets see how it goes
 
 
-javascript 
-appium
-cypress log get
-this
-
-at 89
-for loop
-var this
-if that
-describe this
+using csharp now
