@@ -2,11 +2,7 @@ mymain is the way to go
 this is in local
 yeah yeah yeah
 uselss code removed ------
-controller
-ps5
-and couple added here
-okay
-lets see how it goes
+removed and changed 0000111110000
 
 
 using csharp now
