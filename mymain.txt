@@ -1,8 +1,4 @@
-mymain is the way to go
-this is in local
-yeah yeah yeah
-uselss code removed ------
-removed and changed 0000111110000
+top paragraph removed
 
 
 using csharp now
